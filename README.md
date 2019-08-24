@@ -10,8 +10,8 @@ The original implementation of our paper is similar to this framework: [**GCC-SF
 
 |          Method       |   MAE   |    MSE   | 
 |-----------------------|---------|----------|
-| The orginal paper     |      |      |
-| C^3 Framework         |||
+| The orginal paper     |   9.5   |   15.2   |
+| C^3 Framework         | **9.0** | **13.8** |
 
 
 ## Acknowledgments
