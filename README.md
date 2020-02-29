@@ -14,4 +14,16 @@ The original implementation of our paper is similar to this framework: [**GCC-SF
 | C^3 Framework         | **9.0** | **13.8** |
 
 
-## Acknowledgments
+## Citing
+If you use the code, please cite the following paper:
+```
+@ARTICLE{wang2019weakly, 
+author={Wang, Qi and Gao, Junyu and Li, Xuelong}, 
+journal={IEEE Transactions on Image Processing}, 
+title={Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes}, 
+year={2019}, 
+volume={28}, 
+number={9}, 
+pages={4376-4386}, 
+}
+```
